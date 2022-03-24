@@ -1,2 +1,2 @@
-# odin-recipes
+# Odin-recipes
 First Html Project
